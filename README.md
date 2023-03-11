@@ -3,7 +3,7 @@ Este seguinte projeto é uma atividade prática usando a linguagem de programaç
 
 No modelo da prática desenvolvi uma aplicação mobile com funcionalidade de uma interação de lâmpada, sendo: 
 - Ligar a lâmpada 🔌
-- Desligar a lâmapada ⚙️
+- Desligar a lâmpada ⚙️
 - Quebrar a lâmpada 🔨
 
 #
