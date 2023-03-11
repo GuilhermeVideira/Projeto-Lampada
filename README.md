@@ -8,6 +8,11 @@ No modelo da prática desenvolvi uma aplicação mobile com funcionalidade de um
 
 #
 
+<img alt="LâmpadaLigada" src="https://github.com/GuilhermeVideira/Projeto-Lampada/blob/master/www/ligada.jpg?raw=true">
+
+
+#
+
 ### Linguagens de programação que utilizei no projeto:
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
