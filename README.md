@@ -8,8 +8,7 @@ No modelo da prática desenvolvi uma aplicação mobile com funcionalidade de um
 
 #
 
-<img alt="LâmpadaLigada" src="https://github.com/GuilhermeVideira/Projeto-Lampada/blob/master/www/ligada.jpg?raw=true"> ////// <img alt="LâmpadaDesligada" src="https://github.com/GuilhermeVideira/Projeto-Lampada/blob/master/www/desligada.jpg?raw=true">
-
+<img alt="LâmpadaLigada" align="center" src="https://github.com/GuilhermeVideira/Projeto-Lampada/blob/master/www/ligada.jpg?raw=true">  <img align="center" alt="LâmpadaDesligada" src="https://github.com/GuilhermeVideira/Projeto-Lampada/blob/master/www/desligada.jpg?raw=true"> <img align="center" alt="LâmpadaQuebrada" src="https://github.com/GuilhermeVideira/Projeto-Lampada/blob/master/www/quebrada.jpg?raw=true">
 
 
 
